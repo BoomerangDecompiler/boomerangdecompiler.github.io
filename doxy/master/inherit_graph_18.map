@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,105,235"/>
+<area shape="rect" id="node2" href="$classConstGlobalConverter.html" title="Constant global converter." alt="" coords="153,5,319,32"/>
+<area shape="rect" id="node3" href="$classDfaLocalMapper.html" title="This class is an ExpModifier because although most of the time it merely maps expressions to locals,..." alt="" coords="172,56,300,83"/>
+<area shape="rect" id="node4" href="$classExpAddressSimplifier.html" title="Simplifies expressions consisting of addressof&#45;memof constructs and memof&#45;addressof expressions." alt="" coords="155,107,317,133"/>
+<area shape="rect" id="node5" href="$classExpArithSimplifier.html" title="Simplifies expressions constisting of + and &#45; at the top level." alt="" coords="166,157,306,184"/>
+<area shape="rect" id="node6" href="$classExpCastInserter.html" title=" " alt="" coords="173,208,299,235"/>
+<area shape="rect" id="node7" href="$classExpSimplifier.html" title="Simplifies expressions into a canonical form." alt="" coords="181,259,291,285"/>
+<area shape="rect" id="node8" href="$classExpSSAXformer.html" title="Transform an exp by applying mappings to the subscripts." alt="" coords="173,309,299,336"/>
+<area shape="rect" id="node9" href="$classImplicitConverter.html" title="Convert any exp{&#45;} (with null definition) so that the definition points instead to an implicit assign..." alt="" coords="169,360,303,387"/>
+<area shape="rect" id="node10" href="$classSimpExpModifier.html" title="A simplifying expression modifier." alt="" coords="169,411,303,437"/>
+<area shape="rect" id="node11" href="$classCallBypasser.html" title="A modifying visitor to process all references in an expression, bypassing calls (and phi statements i..." alt="" coords="372,360,479,387"/>
+<area shape="rect" id="node12" href="$classExpPropagator.html" title="A class to propagate everything, regardless, to this expression." alt="" coords="367,411,484,437"/>
+<area shape="rect" id="node13" href="$classLocaliser.html" title="Localiser." alt="" coords="385,461,465,488"/>
+</map>

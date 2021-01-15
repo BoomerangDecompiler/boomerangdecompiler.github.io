@@ -1,0 +1,5 @@
+<map id="CFGCompressor::compressCFG" name="CFGCompressor::compressCFG">
+<area shape="rect" id="node1" title="Given a well&#45;formed ProcCFG, optimizations are performed on the graph to reduce the number of basic b..." alt="" coords="5,42,231,69"/>
+<area shape="rect" id="node2" href="$classCFGCompressor.html#ab47e619e95a666b0c03eba279dcc7490" title="Removes empty jumps and empty BBs." alt="" coords="294,5,521,47"/>
+<area shape="rect" id="node3" href="$classCFGCompressor.html#abecebe7c26674121d6dea26434f39591" title="Removes BBs that are not reachable from the entry BB." alt="" coords="279,71,536,98"/>
+</map>

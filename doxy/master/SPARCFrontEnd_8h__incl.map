@@ -1,0 +1,29 @@
+<map id="SPARCFrontEnd.h" name="SPARCFrontEnd.h">
+<area shape="rect" id="node1" title=" " alt="" coords="671,5,806,32"/>
+<area shape="rect" id="node2" href="$BoomerangAPI_8h.html" title=" " alt="" coords="394,423,601,464"/>
+<area shape="rect" id="node3" href="$DefaultFrontEnd_8h.html" title=" " alt="" coords="507,80,661,121"/>
+<area shape="rect" id="node18" href="$IDecoder_8h.html" title=" " alt="" coords="862,87,1053,114"/>
+<area shape="rect" id="node24" href="$Operator_8h.html" title=" " alt="" coords="123,87,341,114"/>
+<area shape="rect" id="node25" href="$Type_8h.html" title=" " alt="" coords="1290,259,1441,300"/>
+<area shape="rect" id="node27" href="$Interval_8h.html" title=" " alt="" coords="1160,87,1347,114"/>
+<area shape="rect" id="node4" href="$SigEnum_8h.html" title=" " alt="" coords="93,259,248,300"/>
+<area shape="rect" id="node5" href="$TargetQueue_8h.html" title=" " alt="" coords="569,169,724,211"/>
+<area shape="rect" id="node13" href="$IFrontEnd_8h.html" title=" " alt="" coords="277,177,470,203"/>
+<area shape="rect" id="node15" title=" " alt="" coords="840,348,917,375"/>
+<area shape="rect" id="node17" title=" " alt="" coords="495,177,545,203"/>
+<area shape="rect" id="node6" href="$Address_8h.html" title=" " alt="" coords="549,266,739,293"/>
+<area shape="rect" id="node12" title=" " alt="" coords="462,266,525,293"/>
+<area shape="rect" id="node7" href="$OStream_8h.html" title=" " alt="" coords="553,348,748,375"/>
+<area shape="rect" id="node8" href="$Types_8h.html" title=" " alt="" coords="867,430,1042,457"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1242,348,1313,375"/>
+<area shape="rect" id="node10" title=" " alt="" coords="625,430,687,457"/>
+<area shape="rect" id="node9" title=" " alt="" coords="921,512,988,539"/>
+<area shape="rect" id="node14" title=" " alt="" coords="763,266,805,293"/>
+<area shape="rect" id="node16" title=" " alt="" coords="273,266,335,293"/>
+<area shape="rect" id="node19" href="$DecodeResult_8h.html" title=" " alt="" coords="880,169,1035,211"/>
+<area shape="rect" id="node21" href="$Register_8h.html" title=" " alt="" coords="1078,266,1266,293"/>
+<area shape="rect" id="node20" title=" " alt="" coords="931,266,1002,293"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1043,348,1101,375"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1126,348,1218,375"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1439,348,1508,375"/>
+</map>

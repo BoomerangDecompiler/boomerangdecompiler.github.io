@@ -1,0 +1,12 @@
+<map id="BooleanType.h" name="BooleanType.h">
+<area shape="rect" id="node1" title=" " alt="" coords="538,5,655,32"/>
+<area shape="rect" id="node2" href="$DebugInfo_8cpp.html" title=" " alt="" coords="5,80,121,107"/>
+<area shape="rect" id="node3" href="$Binary_8cpp.html" title=" " alt="" coords="145,80,235,107"/>
+<area shape="rect" id="node4" href="$Terminal_8cpp.html" title=" " alt="" coords="259,80,364,107"/>
+<area shape="rect" id="node5" href="$Register_8cpp.html" title=" " alt="" coords="388,80,491,107"/>
+<area shape="rect" id="node6" href="$BranchStatement_8cpp.html" title=" " alt="" coords="515,80,678,107"/>
+<area shape="rect" id="node7" href="$BooleanType_8cpp.html" title=" " alt="" coords="703,80,835,107"/>
+<area shape="rect" id="node8" href="$Type_8cpp.html" title=" " alt="" coords="859,80,937,107"/>
+<area shape="rect" id="node9" href="$DFATypeAnalyzer_8cpp.html" title=" " alt="" coords="961,80,1123,107"/>
+<area shape="rect" id="node10" href="$DFATypeRecovery_8cpp.html" title=" " alt="" coords="1147,80,1310,107"/>
+</map>

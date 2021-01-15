@@ -1,0 +1,9 @@
+<map id="ControlFlowAnalyzer::determineLoopType" name="ControlFlowAnalyzer::determineLoopType">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,164,126"/>
+<area shape="rect" id="node2" href="$classControlFlowAnalyzer.html#a9a91184f0a06b9970a229179e4bed433" title=" " alt="" coords="623,102,780,144"/>
+<area shape="rect" id="node3" href="$classControlFlowAnalyzer.html#a265b89e3421e8815e91df4c0c064c643" title=" " alt="" coords="417,45,575,86"/>
+<area shape="rect" id="node4" href="$classControlFlowAnalyzer.html#ad9d2c72d93554800801ec40db800468b" title=" " alt="" coords="212,85,369,126"/>
+<area shape="rect" id="node5" href="$classControlFlowAnalyzer.html#a11522dd291650f67d5a8cc18734a5e6a" title=" " alt="" coords="212,150,369,192"/>
+<area shape="rect" id="node7" href="$classControlFlowAnalyzer.html#a3c071bacab7378fc72a7e9ea4ff93615" title=" " alt="" coords="417,197,575,238"/>
+<area shape="rect" id="node6" href="$classControlFlowAnalyzer.html#ae11edf3f264f0d33252186f3bad37214" title=" " alt="" coords="417,132,575,173"/>
+</map>

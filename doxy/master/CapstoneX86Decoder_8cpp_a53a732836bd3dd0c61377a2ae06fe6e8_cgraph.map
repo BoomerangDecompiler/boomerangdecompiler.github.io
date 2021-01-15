@@ -1,0 +1,4 @@
+<map id="operandToExp" name="operandToExp">
+<area shape="rect" id="node1" title="Converts an operand of an instruction (like eax + 4*esi + 0x10) into a SSL expression that can be rec..." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$CapstoneX86Decoder_8cpp.html#a4fbf71c08b551493f63c8902d2a61094" title="Translates Capstone register IDs to Boomerang internal register IDs." alt="" coords="167,5,261,32"/>
+</map>

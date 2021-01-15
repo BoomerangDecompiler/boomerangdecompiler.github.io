@@ -1,0 +1,6 @@
+<map id="AssignRemovalPass::execute" name="AssignRemovalPass::execute">
+<area shape="rect" id="node1" title="Run this pass, updating proc." alt="" coords="5,39,167,80"/>
+<area shape="rect" id="node2" href="$classAssignRemovalPass.html#acbba6696543ee2202a7e7f9004380fca" title=" " alt="" coords="215,5,397,47"/>
+<area shape="rect" id="node3" href="$classAssignRemovalPass.html#a89913342b91d6275babd6f23b0b84d53" title="Preservations only for the stack pointer." alt="" coords="225,71,387,112"/>
+<area shape="rect" id="node4" href="$namespaceUtil.html#a5d611b6241a4e63890026a9fea549312" title=" " alt="" coords="445,78,645,105"/>
+</map>

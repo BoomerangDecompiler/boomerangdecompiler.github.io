@@ -1,0 +1,6 @@
+<map id="StatementInitPass::execute" name="StatementInitPass::execute">
+<area shape="rect" id="node1" title="Run this pass, updating proc." alt="" coords="5,35,155,76"/>
+<area shape="rect" id="node2" href="$classCFGCompressor.html#acd7f26f6d921ce5532d6453ece7ac0e1" title="Given a well&#45;formed ProcCFG, optimizations are performed on the graph to reduce the number of basic b..." alt="" coords="203,42,428,69"/>
+<area shape="rect" id="node3" href="$classCFGCompressor.html#ab47e619e95a666b0c03eba279dcc7490" title="Removes empty jumps and empty BBs." alt="" coords="491,5,718,47"/>
+<area shape="rect" id="node4" href="$classCFGCompressor.html#abecebe7c26674121d6dea26434f39591" title="Removes BBs that are not reachable from the entry BB." alt="" coords="476,71,733,98"/>
+</map>

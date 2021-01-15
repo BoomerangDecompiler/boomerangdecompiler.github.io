@@ -1,0 +1,6 @@
+<map id="UnusedReturnRemover::removeUnusedReturns" name="UnusedReturnRemover::removeUnusedReturns">
+<area shape="rect" id="node1" title="Remove unused return locations." alt="" coords="5,27,184,69"/>
+<area shape="rect" id="node2" href="$UnusedReturnRemover_8cpp.html#ac0739420c3b01ace13ea4924fac94eab" title=" " alt="" coords="305,5,412,32"/>
+<area shape="rect" id="node3" href="$classUnusedReturnRemover.html#a703b0675a6454f228adadd6e85b2e09b" title="Remove any returns that are not used by any callers." alt="" coords="232,57,485,98"/>
+<area shape="rect" id="node4" href="$classUnusedReturnRemover.html#a04c6fd8b02310a9bb21b0c452726ca81" title="Update parameters and call livenesses to take into account the changes caused by removing a return fr..." alt="" coords="533,57,707,98"/>
+</map>

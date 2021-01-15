@@ -1,0 +1,7 @@
+<map id="SimpExpModifier" name="SimpExpModifier">
+<area shape="rect" id="node1" title="A simplifying expression modifier." alt="" coords="128,80,261,107"/>
+<area shape="rect" id="node3" href="$classCallBypasser.html" title="A modifying visitor to process all references in an expression, bypassing calls (and phi statements i..." alt="" coords="5,155,112,181"/>
+<area shape="rect" id="node4" href="$classExpPropagator.html" title="A class to propagate everything, regardless, to this expression." alt="" coords="136,155,253,181"/>
+<area shape="rect" id="node5" href="$classLocaliser.html" title="Localiser." alt="" coords="277,155,357,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="145,5,245,32"/>
+</map>

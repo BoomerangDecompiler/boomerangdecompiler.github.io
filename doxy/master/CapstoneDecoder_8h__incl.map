@@ -1,0 +1,29 @@
+<map id="CapstoneDecoder.h" name="CapstoneDecoder.h">
+<area shape="rect" id="node1" title=" " alt="" coords="697,5,846,32"/>
+<area shape="rect" id="node2" href="$IDecoder_8h.html" title=" " alt="" coords="5,162,196,189"/>
+<area shape="rect" id="node17" href="$RTLInstDict_8h.html" title=" " alt="" coords="667,80,875,107"/>
+<area shape="rect" id="node27" title=" " alt="" coords="900,80,1056,107"/>
+<area shape="rect" id="node3" href="$DecodeResult_8h.html" title=" " alt="" coords="59,244,214,285"/>
+<area shape="rect" id="node14" href="$Register_8h.html" title=" " alt="" coords="527,251,715,278"/>
+<area shape="rect" id="node4" href="$Address_8h.html" title=" " alt="" coords="378,333,567,360"/>
+<area shape="rect" id="node7" href="$Types_8h.html" title=" " alt="" coords="300,490,475,517"/>
+<area shape="rect" id="node11" title=" " alt="" coords="13,333,84,360"/>
+<area shape="rect" id="node12" title=" " alt="" coords="159,333,202,360"/>
+<area shape="rect" id="node13" title=" " alt="" coords="226,333,303,360"/>
+<area shape="rect" id="node5" href="$BoomerangAPI_8h.html" title=" " alt="" coords="672,483,879,524"/>
+<area shape="rect" id="node6" href="$OStream_8h.html" title=" " alt="" coords="429,408,623,435"/>
+<area shape="rect" id="node10" title=" " alt="" coords="699,408,769,435"/>
+<area shape="rect" id="node9" title=" " alt="" coords="499,490,561,517"/>
+<area shape="rect" id="node8" title=" " alt="" coords="354,572,421,599"/>
+<area shape="rect" id="node15" title=" " alt="" coords="591,333,650,360"/>
+<area shape="rect" id="node16" title=" " alt="" coords="776,333,868,360"/>
+<area shape="rect" id="node18" href="$RegDB_8h.html" title=" " alt="" coords="682,162,861,189"/>
+<area shape="rect" id="node20" title=" " alt="" coords="825,251,875,278"/>
+<area shape="rect" id="node21" title=" " alt="" coords="751,251,794,278"/>
+<area shape="rect" id="node22" href="$TableEntry_8h.html" title=" " alt="" coords="221,162,421,189"/>
+<area shape="rect" id="node23" title=" " alt="" coords="495,155,658,196"/>
+<area shape="rect" id="node24" href="$ByteUtil_8h.html" title=" " alt="" coords="904,251,1095,278"/>
+<area shape="rect" id="node26" title=" " alt="" coords="885,162,948,189"/>
+<area shape="rect" id="node19" href="$RTL_8h.html" title=" " alt="" coords="241,251,400,278"/>
+<area shape="rect" id="node25" title=" " alt="" coords="944,333,1055,360"/>
+</map>

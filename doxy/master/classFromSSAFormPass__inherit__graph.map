@@ -1,0 +1,4 @@
+<map id="FromSSAFormPass" name="FromSSAFormPass">
+<area shape="rect" id="node1" title="Transforms the statements a proc out of SSA form." alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node2" href="$classIPass.html" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="49,5,105,32"/>
+</map>

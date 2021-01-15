@@ -1,0 +1,4 @@
+<map id="DominatorPass" name="DominatorPass">
+<area shape="rect" id="node1" title="Calculates dominators for each Basic Block." alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node2" href="$classIPass.html" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="38,5,94,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BlockVarRenamePass::renameBlockVars" name="BlockVarRenamePass::renameBlockVars">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node2" href="$classBlockVarRenamePass.html#ad19f6101b2858b5a64dfc84565aeace9" title="For all expressions in stmt, replace var with var{varDef}." alt="" coords="217,5,381,47"/>
+</map>

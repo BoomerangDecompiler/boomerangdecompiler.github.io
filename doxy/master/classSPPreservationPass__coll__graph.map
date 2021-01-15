@@ -1,0 +1,4 @@
+<map id="SPPreservationPass" name="SPPreservationPass">
+<area shape="rect" id="node1" title="Analyze whether the stack pointer is preserved by a function." alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node2" href="$classIPass.html" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="53,5,109,32"/>
+</map>

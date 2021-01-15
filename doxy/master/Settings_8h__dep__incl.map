@@ -1,0 +1,42 @@
+<map id="Settings.h" name="Settings.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3349,5,3436,32"/>
+<area shape="rect" id="node2" href="$Project_8cpp.html" title=" " alt="" coords="5,80,100,107"/>
+<area shape="rect" id="node3" href="$Settings_8cpp.html" title=" " alt="" coords="124,80,227,107"/>
+<area shape="rect" id="node4" href="$DataFlow_8cpp.html" title=" " alt="" coords="251,80,361,107"/>
+<area shape="rect" id="node5" href="$Module_8cpp.html" title=" " alt="" coords="385,80,483,107"/>
+<area shape="rect" id="node6" href="$Proc_8cpp.html" title=" " alt="" coords="507,80,585,107"/>
+<area shape="rect" id="node7" href="$UserProc_8cpp.html" title=" " alt="" coords="609,80,715,107"/>
+<area shape="rect" id="node8" href="$Prog_8cpp.html" title=" " alt="" coords="740,80,819,107"/>
+<area shape="rect" id="node9" href="$IndirectJumpAnalyzer_8cpp.html" title=" " alt="" coords="843,80,1031,107"/>
+<area shape="rect" id="node10" href="$InterferenceFinder_8cpp.html" title=" " alt="" coords="1055,80,1221,107"/>
+<area shape="rect" id="node11" href="$LivenessAnalyzer_8cpp.html" title=" " alt="" coords="1246,80,1409,107"/>
+<area shape="rect" id="node12" href="$ProcDecompiler_8cpp.html" title=" " alt="" coords="1433,80,1585,107"/>
+<area shape="rect" id="node13" href="$ProgDecompiler_8cpp.html" title=" " alt="" coords="1609,80,1763,107"/>
+<area shape="rect" id="node14" href="$UnusedReturnRemover_8cpp.html" title=" " alt="" coords="1787,80,1987,107"/>
+<area shape="rect" id="node15" href="$DefaultFrontEnd_8cpp.html" title=" " alt="" coords="2011,80,2166,107"/>
+<area shape="rect" id="node16" href="$CallArgumentUpdatePass_8cpp.html" title=" " alt="" coords="2191,80,2405,107"/>
+<area shape="rect" id="node17" href="$CallDefineUpdatePass_8cpp.html" title=" " alt="" coords="2430,80,2625,107"/>
+<area shape="rect" id="node18" href="$BlockVarRenamePass_8cpp.html" title=" " alt="" coords="2649,80,2840,107"/>
+<area shape="rect" id="node19" href="$FromSSAFormPass_8cpp.html" title=" " alt="" coords="2865,80,3035,107"/>
+<area shape="rect" id="node20" href="$LocalTypeAnalysisPass_8cpp.html" title=" " alt="" coords="3060,80,3259,107"/>
+<area shape="rect" id="node21" href="$UnusedLocalRemovalPass_8cpp.html" title=" " alt="" coords="3283,80,3503,107"/>
+<area shape="rect" id="node22" href="$UnusedParamRemovalPass_8cpp.html" title=" " alt="" coords="3527,80,3755,107"/>
+<area shape="rect" id="node23" href="$UnusedStatementRemovalPass_8cpp.html" title=" " alt="" coords="3779,80,4033,107"/>
+<area shape="rect" id="node24" href="$PreservationAnalysisPass_8cpp.html" title=" " alt="" coords="4058,80,4274,107"/>
+<area shape="rect" id="node25" href="$SPPreservationPass_8cpp.html" title=" " alt="" coords="4299,80,4476,107"/>
+<area shape="rect" id="node26" href="$Statement_8cpp.html" title=" " alt="" coords="4501,80,4618,107"/>
+<area shape="rect" id="node27" href="$CallGraphDotWriter_8cpp.html" title=" " alt="" coords="4642,80,4818,107"/>
+<area shape="rect" id="node28" href="$CFGDotWriter_8cpp.html" title=" " alt="" coords="4842,80,4981,107"/>
+<area shape="rect" id="node29" href="$ProgSymbolWriter_8cpp.html" title=" " alt="" coords="5005,80,5172,107"/>
+<area shape="rect" id="node30" href="$ExpSSAXformer_8cpp.html" title=" " alt="" coords="5197,80,5349,107"/>
+<area shape="rect" id="node31" href="$CommandlineDriver_8cpp.html" title=" " alt="" coords="5373,80,5553,107"/>
+<area shape="rect" id="node32" href="$Console_8cpp.html" title=" " alt="" coords="5578,80,5679,107"/>
+<area shape="rect" id="node33" href="$Decompiler_8cpp.html" title=" " alt="" coords="5704,80,5828,107"/>
+<area shape="rect" id="node34" href="$SettingsDlg_8cpp.html" title=" " alt="" coords="5852,80,5976,107"/>
+<area shape="rect" id="node35" href="$CCodeGenerator_8cpp.html" title=" " alt="" coords="6000,80,6156,107"/>
+<area shape="rect" id="node36" href="$CapstoneDecoder_8cpp.html" title=" " alt="" coords="6180,80,6344,107"/>
+<area shape="rect" id="node37" href="$ST20Decoder_8cpp.html" title=" " alt="" coords="6368,80,6503,107"/>
+<area shape="rect" id="node38" href="$SPARCFrontEnd_8cpp.html" title=" " alt="" coords="6527,80,6677,107"/>
+<area shape="rect" id="node39" href="$DFATypeRecovery_8cpp.html" title=" " alt="" coords="6701,80,6863,107"/>
+<area shape="rect" id="node40" href="$TypeRecovery_8cpp.html" title=" " alt="" coords="6887,80,7026,107"/>
+</map>

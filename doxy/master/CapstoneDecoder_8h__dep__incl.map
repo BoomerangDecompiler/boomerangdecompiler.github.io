@@ -1,0 +1,10 @@
+<map id="CapstoneDecoder.h" name="CapstoneDecoder.h">
+<area shape="rect" id="node1" title=" " alt="" coords="305,5,454,32"/>
+<area shape="rect" id="node2" href="$CapstoneDecoder_8cpp.html" title=" " alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$CapstoneX86Decoder_8h.html" title=" " alt="" coords="193,80,368,107"/>
+<area shape="rect" id="node5" href="$CapstonePPCDecoder_8h.html" title=" " alt="" coords="392,80,567,107"/>
+<area shape="rect" id="node7" href="$CapstoneSPARCDecoder_8h.html" title=" " alt="" coords="599,80,791,107"/>
+<area shape="rect" id="node4" href="$CapstoneX86Decoder_8cpp.html" title=" " alt="" coords="171,155,361,181"/>
+<area shape="rect" id="node6" href="$CapstonePPCDecoder_8cpp.html" title=" " alt="" coords="385,155,574,181"/>
+<area shape="rect" id="node8" href="$CapstoneSPARCDecoder_8cpp.html" title=" " alt="" coords="599,155,805,181"/>
+</map>

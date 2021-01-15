@@ -1,0 +1,4 @@
+<map id="CallLivenessRemovalPass" name="CallLivenessRemovalPass">
+<area shape="rect" id="node1" title="Remove all liveness info in UseCollectors in calls." alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node2" href="$classIPass.html" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="73,5,129,32"/>
+</map>

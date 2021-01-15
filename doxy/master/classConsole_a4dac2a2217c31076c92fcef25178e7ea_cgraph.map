@@ -1,0 +1,20 @@
+<map id="Console::handleCommand" name="Console::handleCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,374,199,401"/>
+<area shape="rect" id="node2" href="$classConsole.html#af52d472541ff7ce0491bf20bbb250f78" title=" " alt="" coords="965,323,1183,350"/>
+<area shape="rect" id="node3" href="$classConsole.html#a70c6c03de685ebcfc20d367b5f815acf" title=" " alt="" coords="247,349,445,375"/>
+<area shape="rect" id="node18" href="$classConsole.html#a272611bdea178811537d34f4ef869006" title="Split commandWithArgs into command and args." alt="" coords="257,399,435,426"/>
+<area shape="rect" id="node4" href="$classConsole.html#ae554775bf80f9f3dfd7090cbe885f3a4" title=" " alt="" coords="493,45,724,71"/>
+<area shape="rect" id="node5" href="$classConsole.html#a1e46a5b513b763deb85b4b2a5bfe42ba" title=" " alt="" coords="533,95,684,122"/>
+<area shape="rect" id="node6" href="$classConsole.html#adeee9cc925a7799d71bc57c9ca34ec59" title=" " alt="" coords="517,146,700,173"/>
+<area shape="rect" id="node7" href="$classConsole.html#ac744751ffdadb166db1e7bef060d6792" title=" " alt="" coords="521,197,696,223"/>
+<area shape="rect" id="node8" href="$classConsole.html#a29c4c27441902bdbeabf79fe7ccee4de" title=" " alt="" coords="511,247,707,274"/>
+<area shape="rect" id="node9" href="$classConsole.html#a8da45be538acbb525fade54d55605a13" title=" " alt="" coords="524,298,693,325"/>
+<area shape="rect" id="node10" href="$classConsole.html#a300106c019260dc222df39784fe8596d" title=" " alt="" coords="533,349,684,375"/>
+<area shape="rect" id="node11" href="$classConsole.html#ad48385c454620381a4f937ee314fe856" title=" " alt="" coords="531,399,687,426"/>
+<area shape="rect" id="node12" href="$classConsole.html#aa9d7e986351907fa282aed0bbc4379b3" title=" " alt="" coords="533,450,684,477"/>
+<area shape="rect" id="node13" href="$classConsole.html#af48c76c19465b5f7ed9272d1f05ff5df" title=" " alt="" coords="527,501,690,527"/>
+<area shape="rect" id="node14" href="$classConsole.html#a272e0f966f191acb1396e4b70c5350db" title=" " alt="" coords="531,551,687,578"/>
+<area shape="rect" id="node15" href="$classConsole.html#a99846042619a9a43d7bad0feab0b66a1" title=" " alt="" coords="519,602,699,629"/>
+<area shape="rect" id="node16" href="$classConsole.html#ac8545219122a95b0445ce924f40989f4" title=" " alt="" coords="523,653,694,679"/>
+<area shape="rect" id="node17" href="$classConsole.html#ad787403f13b8d4d339b69451a0d5ec98" title="Execute the commands in file line by line." alt="" coords="772,653,917,679"/>
+</map>
