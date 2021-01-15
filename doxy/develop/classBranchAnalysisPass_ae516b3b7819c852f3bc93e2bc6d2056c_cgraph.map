@@ -1,0 +1,6 @@
+<map id="BranchAnalysisPass::execute" name="BranchAnalysisPass::execute">
+<area shape="rect" id="node1" title="Run this pass, updating proc." alt="" coords="5,39,157,80"/>
+<area shape="rect" id="node2" href="$classBranchAnalysisPass.html#af5b2a212c04cd1d6cc80616a3a09808b" title="Look for short circuit branching." alt="" coords="205,5,357,47"/>
+<area shape="rect" id="node4" href="$classBranchAnalysisPass.html#ac40ac3908039b50827923b2fe9023e5a" title="Fix any ugly branch statements (from propagating too much)" alt="" coords="205,71,357,112"/>
+<area shape="rect" id="node3" href="$classBranchAnalysisPass.html#a1f91bb9e708fa523843dbab3144efe72" title=" " alt="" coords="405,5,557,47"/>
+</map>

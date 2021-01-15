@@ -1,0 +1,5 @@
+<map id="UnusedReturnRemover::removeUnusedParamsAndReturns" name="UnusedReturnRemover::removeUnusedParamsAndReturns">
+<area shape="rect" id="node1" title="Remove any returns that are not used by any callers." alt="" coords="5,35,259,76"/>
+<area shape="rect" id="node2" href="$classUnusedReturnRemover.html#a35b628e54b7884ac91fe291039220709" title="Remove returns from the return statement to match the signature of proc." alt="" coords="307,5,553,47"/>
+<area shape="rect" id="node3" href="$classUnusedReturnRemover.html#a04c6fd8b02310a9bb21b0c452726ca81" title="Update parameters and call livenesses to take into account the changes caused by removing a return fr..." alt="" coords="601,35,775,76"/>
+</map>

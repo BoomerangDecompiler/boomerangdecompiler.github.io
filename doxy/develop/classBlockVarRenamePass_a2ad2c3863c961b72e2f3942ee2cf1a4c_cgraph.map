@@ -1,0 +1,8 @@
+<map id="BlockVarRenamePass::execute" name="BlockVarRenamePass::execute">
+<area shape="rect" id="node1" title="Run this pass, updating proc." alt="" coords="5,71,169,112"/>
+<area shape="rect" id="node2" href="$classBlockVarRenamePass.html#a7b1e0fb7f7a4c7213e58c353db85b202" title=" " alt="" coords="217,71,381,112"/>
+<area shape="rect" id="node3" href="$classBlockVarRenamePass.html#a8228b015dce9c56fcc492be6c681cb24" title="pop definitions in this statement from the stacks" alt="" coords="439,5,603,47"/>
+<area shape="rect" id="node4" href="$classBlockVarRenamePass.html#a6c96c779cb874ef545af66abce655471" title="push definitions in this statement onto the stacks" alt="" coords="439,71,603,112"/>
+<area shape="rect" id="node5" href="$classBlockVarRenamePass.html#a20456a2cc290481b4c03762ea3e22433" title=" " alt="" coords="429,136,613,177"/>
+<area shape="rect" id="node6" href="$classBlockVarRenamePass.html#a6fb2ae3b5ee5b18a9f904eed34f02b22" title="For all expressions in stmt, replace var with var{varDef}." alt="" coords="661,136,825,177"/>
+</map>

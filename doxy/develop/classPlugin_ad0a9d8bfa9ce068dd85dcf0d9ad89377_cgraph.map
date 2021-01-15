@@ -1,0 +1,5 @@
+<map id="Plugin::Plugin" name="Plugin::Plugin">
+<area shape="rect" id="node1" title="Create a plugin from a dynamic library file." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$classPlugin.html#ad70d69970f56daa61d463d5fbf1b9c0b" title="Initialize the plugin." alt="" coords="164,5,255,32"/>
+<area shape="rect" id="node3" href="$classPlugin.html#a2f1ff5f3f9988127d68e8982e70283f8" title="Get information about the plugin." alt="" coords="303,5,419,32"/>
+</map>

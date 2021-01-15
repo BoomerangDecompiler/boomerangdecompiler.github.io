@@ -1,0 +1,6 @@
+<map id="MainWindow::on_tblUserProcs_cellDoubleClicked" name="MainWindow::on_tblUserProcs_cellDoubleClicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$classMainWindow.html#abe7ab7352fd7f1eb4fc8fb2b6c29494c" title=" " alt="" coords="272,13,483,39"/>
+<area shape="rect" id="node3" href="$classRTLEditor.html#a5ab9cbd3a837af145b73136fb16e1a0a" title=" " alt="" coords="531,13,725,39"/>
+<area shape="rect" id="node4" href="$classDecompiler.html#a43663f3e50785559cfe242384edcfcf4" title=" " alt="" coords="773,13,972,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GraphNode::setSuccessor" name="GraphNode::setSuccessor">
+<area shape="rect" id="node1" title="Change the i&#45;th successor of this node." alt="" coords="5,31,193,57"/>
+<area shape="rect" id="node2" href="$classGraphNode.html#a0ff0e4786df7a50e6f8226ba4a79e3bf" title=" " alt="" coords="241,5,468,32"/>
+<area shape="rect" id="node3" href="$namespaceUtil.html#a5e424d951d801af5de701e86fcab9727" title="Check if value is in [rangeStart, rangeEnd)" alt="" coords="301,56,408,83"/>
+</map>

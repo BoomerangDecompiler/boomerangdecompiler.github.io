@@ -1,0 +1,4 @@
+<map id="AssignRemovalPass" name="AssignRemovalPass">
+<area shape="rect" id="node1" title="Removes unused or tautological assignments." alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node2" href="$classIPass.html" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="54,5,110,32"/>
+</map>

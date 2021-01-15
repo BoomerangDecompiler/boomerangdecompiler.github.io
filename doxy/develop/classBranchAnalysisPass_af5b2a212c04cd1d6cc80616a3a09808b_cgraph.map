@@ -1,0 +1,4 @@
+<map id="BranchAnalysisPass::doBranchAnalysis" name="BranchAnalysisPass::doBranchAnalysis">
+<area shape="rect" id="node1" title="Look for short circuit branching." alt="" coords="5,5,157,47"/>
+<area shape="rect" id="node2" href="$classBranchAnalysisPass.html#a1f91bb9e708fa523843dbab3144efe72" title=" " alt="" coords="205,5,357,47"/>
+</map>

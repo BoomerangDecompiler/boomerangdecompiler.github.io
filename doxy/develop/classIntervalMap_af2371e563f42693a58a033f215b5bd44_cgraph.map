@@ -1,0 +1,7 @@
+<map id="IntervalMap::eraseAll" name="IntervalMap::eraseAll">
+<area shape="rect" id="node1" title="Remove all intervals containing key." alt="" coords="5,22,167,49"/>
+<area shape="rect" id="node2" href="$classIntervalMap.html#a27310df82d31fa902dfa771aaa89cd3d" title=" " alt="" coords="413,22,545,49"/>
+<area shape="rect" id="node3" href="$classIntervalMap.html#a39f778c047f1a2117a23878e5f0f411d" title="Erase the item referenced by it." alt="" coords="215,22,359,49"/>
+<area shape="rect" id="node4" href="$classIntervalMap.html#a8290d549e2e837e4a2fabee92967acee" title="Finds the mapped value at key." alt="" coords="220,73,353,100"/>
+<area shape="rect" id="node5" href="$classIntervalMap.html#adde277820950a8117292c723d654820c" title=" " alt="" coords="407,73,551,100"/>
+</map>

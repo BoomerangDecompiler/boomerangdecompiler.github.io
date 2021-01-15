@@ -1,0 +1,29 @@
+<map id="IPass" name="IPass">
+<area shape="rect" id="node1" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="5,639,61,665"/>
+<area shape="rect" id="node2" href="$classAssignRemovalPass.html" title="Removes unused or tautological assignments." alt="" coords="147,5,301,32"/>
+<area shape="rect" id="node3" href="$classBlockVarRenamePass.html" title="Rewrites Statements in BasicBlocks into SSA form." alt="" coords="142,56,306,83"/>
+<area shape="rect" id="node4" href="$classBranchAnalysisPass.html" title="Simplifies branch condions." alt="" coords="148,107,300,133"/>
+<area shape="rect" id="node5" href="$classCallAndPhiFixPass.html" title="Perform call and phi statement bypassing at all depths." alt="" coords="154,157,294,184"/>
+<area shape="rect" id="node6" href="$classCallArgumentUpdatePass.html" title="Update arguments in calls." alt="" coords="130,208,318,235"/>
+<area shape="rect" id="node7" href="$classCallDefineUpdatePass.html" title="Set the defines to the set of locations modified by the callee, or if no callee, to all variables liv..." alt="" coords="141,259,307,285"/>
+<area shape="rect" id="node8" href="$classCallLivenessRemovalPass.html" title="Remove all liveness info in UseCollectors in calls." alt="" coords="128,309,320,336"/>
+<area shape="rect" id="node9" href="$classDominatorPass.html" title="Calculates dominators for each Basic Block." alt="" coords="163,360,285,387"/>
+<area shape="rect" id="node10" href="$classDuplicateArgsRemovalPass.html" title="Eliminates duplicate arguments of calls." alt="" coords="123,411,325,437"/>
+<area shape="rect" id="node11" href="$classFinalParameterSearchPass.html" title="Search for expressions without explicit definitions (i.e." alt="" coords="127,461,321,488"/>
+<area shape="rect" id="node12" href="$classFragSimplifyPass.html" title="Simplifies IR fragments of a function." alt="" coords="157,512,291,539"/>
+<area shape="rect" id="node13" href="$classFromSSAFormPass.html" title="Transforms the statements a proc out of SSA form." alt="" coords="152,563,296,589"/>
+<area shape="rect" id="node14" href="$classGlobalConstReplacePass.html" title="Replace simple global constant references." alt="" coords="133,613,315,640"/>
+<area shape="rect" id="node15" href="$classImplicitPlacementPass.html" title="Before Type Analysis, refs like r28{0} have a nullptr Statement pointer." alt="" coords="139,664,309,691"/>
+<area shape="rect" id="node16" href="$classLocalAndParamMapPass.html" title="Map expressions to locals and initial parameters." alt="" coords="133,715,315,741"/>
+<area shape="rect" id="node17" href="$classLocalTypeAnalysisPass.html" title="Executes type analysis on a function." alt="" coords="139,765,309,792"/>
+<area shape="rect" id="node18" href="$classParameterSymbolMapPass.html" title=" " alt="" coords="125,816,323,843"/>
+<area shape="rect" id="node19" href="$classPhiPlacementPass.html" title=" " alt="" coords="153,867,295,893"/>
+<area shape="rect" id="node20" href="$classPreservationAnalysisPass.html" title=" " alt="" coords="129,917,319,944"/>
+<area shape="rect" id="node21" href="$classSPPreservationPass.html" title="Analyze whether the stack pointer is preserved by a function." alt="" coords="149,968,299,995"/>
+<area shape="rect" id="node22" href="$classStatementInitPass.html" title="Initializes statements before decompilation." alt="" coords="153,1019,295,1045"/>
+<area shape="rect" id="node23" href="$classStatementPropagationPass.html" title=" " alt="" coords="125,1069,323,1096"/>
+<area shape="rect" id="node24" href="$classStrengthReductionReversalPass.html" title=" " alt="" coords="109,1120,339,1147"/>
+<area shape="rect" id="node25" href="$classUnusedLocalRemovalPass.html" title="Removes unused local variables." alt="" coords="127,1171,321,1197"/>
+<area shape="rect" id="node26" href="$classUnusedParamRemovalPass.html" title="Removes unused function parameters from a function." alt="" coords="123,1221,325,1248"/>
+<area shape="rect" id="node27" href="$classUnusedStatementRemovalPass.html" title="Remove unused statements." alt="" coords="111,1272,337,1299"/>
+</map>

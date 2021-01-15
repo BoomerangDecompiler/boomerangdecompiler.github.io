@@ -1,0 +1,4 @@
+<map id="Plugin" name="Plugin">
+<area shape="rect" id="node1" title="Class for managing an interface plugin." alt="" coords="28,95,91,121"/>
+<area shape="rect" id="node2" href="$classPluginHandle.html" title="Wrapper class for platform specific handles to dynamic libraries." alt="" coords="5,5,113,32"/>
+</map>

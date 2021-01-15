@@ -1,0 +1,52 @@
+<map id="LocalTypeAnalysisPass.cpp" name="LocalTypeAnalysisPass.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1660,5,1859,32"/>
+<area shape="rect" id="node2" href="$LocalTypeAnalysisPass_8h.html" title=" " alt="" coords="952,80,1135,107"/>
+<area shape="rect" id="node5" href="$Project_8h.html" title=" " alt="" coords="1787,155,1977,181"/>
+<area shape="rect" id="node20" href="$Settings_8h.html" title=" " alt="" coords="2127,311,2325,338"/>
+<area shape="rect" id="node22" href="$Prog_8h.html" title=" " alt="" coords="1356,229,1517,256"/>
+<area shape="rect" id="node33" href="$UserProc_8h.html" title=" " alt="" coords="3163,80,3385,107"/>
+<area shape="rect" id="node47" href="$ITypeRecovery_8h.html" title=" " alt="" coords="5,80,231,107"/>
+<area shape="rect" id="node48" href="$PassManager_8h.html" title=" " alt="" coords="145,311,393,338"/>
+<area shape="rect" id="node50" href="$Log_8h.html" title=" " alt="" coords="2704,304,2849,345"/>
+<area shape="rect" id="node3" href="$Pass_8h.html" title=" " alt="" coords="252,401,443,427"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1096,490,1167,517"/>
+<area shape="rect" id="node6" href="$BoomerangAPI_8h.html" title=" " alt="" coords="1229,572,1436,613"/>
+<area shape="rect" id="node7" href="$PluginManager_8h.html" title=" " alt="" coords="620,304,792,345"/>
+<area shape="rect" id="node9" href="$IFileLoader_8h.html" title=" " alt="" coords="1850,229,2053,256"/>
+<area shape="rect" id="node11" href="$Address_8h.html" title=" " alt="" coords="1893,401,2082,427"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2277,490,2354,517"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2625,401,2688,427"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2586,311,2629,338"/>
+<area shape="rect" id="node8" href="$Plugin_8h.html" title=" " alt="" coords="819,393,991,435"/>
+<area shape="rect" id="node10" href="$BinaryFile_8h.html" title=" " alt="" coords="1500,304,1661,345"/>
+<area shape="rect" id="node15" href="$BinaryImage_8h.html" title=" " alt="" coords="2349,304,2511,345"/>
+<area shape="rect" id="node12" href="$OStream_8h.html" title=" " alt="" coords="1705,490,1899,517"/>
+<area shape="rect" id="node13" href="$Types_8h.html" title=" " alt="" coords="1875,579,2049,606"/>
+<area shape="rect" id="node16" href="$IntervalMap_8h.html" title=" " alt="" coords="2232,401,2447,427"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3319,490,3370,517"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2157,401,2207,427"/>
+<area shape="rect" id="node23" href="$Global_8h.html" title=" " alt="" coords="1199,311,1373,338"/>
+<area shape="rect" id="node27" href="$ModuleFactory_8h.html" title=" " alt="" coords="572,483,741,524"/>
+<area shape="rect" id="node28" href="$SigEnum_8h.html" title=" " alt="" coords="867,304,1022,345"/>
+<area shape="rect" id="node29" href="$Register_8h.html" title=" " alt="" coords="1353,401,1541,427"/>
+<area shape="rect" id="node31" href="$DataIntervalMap_8h.html" title=" " alt="" coords="1685,304,1900,345"/>
+<area shape="rect" id="node32" title=" " alt="" coords="3578,401,3621,427"/>
+<area shape="rect" id="node24" href="$Type_8h.html" title=" " alt="" coords="1565,393,1716,435"/>
+<area shape="rect" id="node25" href="$Util_8h.html" title=" " alt="" coords="1169,401,1329,427"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1287,490,1379,517"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1454,490,1513,517"/>
+<area shape="rect" id="node34" href="$DataFlow_8h.html" title=" " alt="" coords="3892,155,4085,181"/>
+<area shape="rect" id="node39" href="$UseCollector_8h.html" title=" " alt="" coords="3288,155,3503,181"/>
+<area shape="rect" id="node40" href="$Proc_8h.html" title=" " alt="" coords="2382,229,2574,256"/>
+<area shape="rect" id="node41" href="$ProcCFG_8h.html" title=" " alt="" coords="3045,155,3263,181"/>
+<area shape="rect" id="node43" href="$StatementList_8h.html" title=" " alt="" coords="3688,304,3881,345"/>
+<area shape="rect" id="node35" href="$Statement_8h.html" title=" " alt="" coords="3365,304,3561,345"/>
+<area shape="rect" id="node37" href="$LocationSet_8h.html" title=" " alt="" coords="3738,229,3951,256"/>
+<area shape="rect" id="node38" title=" " alt="" coords="4027,229,4151,256"/>
+<area shape="rect" id="node36" href="$ExpHelp_8h.html" title=" " alt="" coords="2973,401,3189,427"/>
+<area shape="rect" id="node42" href="$IRFragment_8h.html" title=" " alt="" coords="3405,229,3612,256"/>
+<area shape="rect" id="node45" href="$MachineInstruction_8h.html" title=" " alt="" coords="2925,304,3087,345"/>
+<area shape="rect" id="node46" href="$MapIterators_8h.html" title=" " alt="" coords="2896,229,3116,256"/>
+<area shape="rect" id="node44" href="$StatementSet_8h.html" title=" " alt="" coords="3685,401,3807,427"/>
+<area shape="rect" id="node49" title=" " alt="" coords="168,401,228,427"/>
+</map>

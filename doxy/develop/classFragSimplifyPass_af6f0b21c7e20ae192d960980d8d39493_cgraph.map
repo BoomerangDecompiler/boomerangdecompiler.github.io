@@ -1,0 +1,4 @@
+<map id="FragSimplifyPass::execute" name="FragSimplifyPass::execute">
+<area shape="rect" id="node1" title="Run this pass, updating proc." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$classFragSimplifyPass.html#a85c8997a5a1e0185ba3422b4c1d4b24a" title="Simplify phis and replace them by Assigns, if possible." alt="" coords="248,5,471,32"/>
+</map>

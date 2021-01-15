@@ -1,0 +1,16 @@
+<map id="ControlFlowAnalyzer::structConds" name="ControlFlowAnalyzer::structConds">
+<area shape="rect" id="node1" title="Structures all conditional headers (i.e. nodes with more than one outedge)" alt="" coords="5,201,163,243"/>
+<area shape="rect" id="node2" href="$classControlFlowAnalyzer.html#a2d0cc2d94a9572caafaf69764ec54e20" title=" " alt="" coords="416,253,573,295"/>
+<area shape="rect" id="node3" href="$classControlFlowAnalyzer.html#a2fd4a685f27121ecd862c19bd52b8a03" title=" " alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node5" href="$classControlFlowAnalyzer.html#a20f75191e6a9d1bb280f91741bd98468" title=" " alt="" coords="211,136,368,177"/>
+<area shape="rect" id="node6" href="$classControlFlowAnalyzer.html#a372f42fba90d58e87f66d2a6a6bade02" title="establish if this fragment is the source of any back edges leading FROM it" alt="" coords="211,201,368,243"/>
+<area shape="rect" id="node7" href="$classControlFlowAnalyzer.html#ac71c554ee423ba6d9529e972e189cebf" title=" " alt="" coords="211,384,368,425"/>
+<area shape="rect" id="node13" href="$classControlFlowAnalyzer.html#af1e8b14e1d8adb58db4c15fb1045acdf" title=" " alt="" coords="211,319,368,360"/>
+<area shape="rect" id="node14" href="$classControlFlowAnalyzer.html#ae5db05896169c8fe750d764b8b58979c" title=" " alt="" coords="211,71,368,112"/>
+<area shape="rect" id="node4" href="$classControlFlowAnalyzer.html#ae709fe319fbbead3dee5d9cc995834a7" title=" " alt="" coords="416,5,573,47"/>
+<area shape="rect" id="node8" href="$classControlFlowAnalyzer.html#a8c25e063ac0d8e9a0027d415e10d5e93" title=" " alt="" coords="416,384,573,425"/>
+<area shape="rect" id="node9" href="$classControlFlowAnalyzer.html#a8b76a53d7adcc80d213b4097517d9044" title=" " alt="" coords="416,449,573,491"/>
+<area shape="rect" id="node10" href="$classControlFlowAnalyzer.html#a2cf8c98c76479d995e1eff08a88d4f8d" title="establish if source has a back edge to dest" alt="" coords="416,515,573,556"/>
+<area shape="rect" id="node12" href="$classControlFlowAnalyzer.html#aa74f6e51685ef5b4d819a7539445cc24" title=" " alt="" coords="416,319,573,360"/>
+<area shape="rect" id="node11" href="$classControlFlowAnalyzer.html#afe278fe226ac77462df23d2e3b85260a" title=" " alt="" coords="621,515,779,556"/>
+</map>

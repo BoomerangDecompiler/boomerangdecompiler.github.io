@@ -1,0 +1,7 @@
+<map id="UnusedStatementRemovalPass::execute" name="UnusedStatementRemovalPass::execute">
+<area shape="rect" id="node1" title="Run this pass, updating proc." alt="" coords="5,71,232,112"/>
+<area shape="rect" id="node2" href="$classUnusedStatementRemovalPass.html#ad3ddf1a1698ce3ba4fe376786c1186fe" title="Remove statements of the form x := x." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$classUnusedStatementRemovalPass.html#ac7a2950a9eb706a459ae3038d0734c40" title=" " alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node5" href="$classUnusedStatementRemovalPass.html#a81383357d6acb2bb141b1474b380f432" title="Count references to the things that are under SSA control." alt="" coords="280,136,507,177"/>
+<area shape="rect" id="node4" href="$classStmtSet.html#a6b7bd16204deba714216262038e38928" title=" " alt="" coords="555,78,673,105"/>
+</map>

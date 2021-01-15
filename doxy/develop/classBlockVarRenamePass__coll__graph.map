@@ -1,0 +1,4 @@
+<map id="BlockVarRenamePass" name="BlockVarRenamePass">
+<area shape="rect" id="node1" title="Rewrites Statements in BasicBlocks into SSA form." alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node2" href="$classIPass.html" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="59,5,115,32"/>
+</map>

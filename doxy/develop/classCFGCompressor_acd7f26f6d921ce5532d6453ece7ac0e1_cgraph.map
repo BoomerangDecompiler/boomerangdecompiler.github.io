@@ -1,0 +1,10 @@
+<map id="CFGCompressor::compressCFG" name="CFGCompressor::compressCFG">
+<area shape="rect" id="node1" title="Given a well&#45;formed ProcCFG, optimizations are performed on the graph to reduce the number of basic b..." alt="" coords="5,140,231,167"/>
+<area shape="rect" id="node2" href="$classCFGCompressor.html#af131a551ed771f14b7c57ecc389cd298" title=" " alt="" coords="279,81,557,108"/>
+<area shape="rect" id="node7" href="$classCFGCompressor.html#ab47e619e95a666b0c03eba279dcc7490" title="Removes empty jumps and empty BBs." alt="" coords="305,133,531,174"/>
+<area shape="rect" id="node8" href="$classCFGCompressor.html#a0dee97e401fe6198f397d6dc4b5848d2" title="Removes fragments that are not reachable from the entry fragment." alt="" coords="302,198,534,239"/>
+<area shape="rect" id="node3" href="$classUniqueStack.html#a4eb06ca1ae654f6414076d1cb2ad57c3" title=" " alt="" coords="605,5,760,32"/>
+<area shape="rect" id="node4" href="$classUniqueStack.html#a724a227031511a08cc54d99dec8c67f2" title=" " alt="" coords="609,56,757,83"/>
+<area shape="rect" id="node5" href="$classUniqueStack.html#aacea7d752d438306ded5196e0d6dbcb9" title=" " alt="" coords="615,107,751,133"/>
+<area shape="rect" id="node6" href="$classUniqueStack.html#aa1a6756a83051d9daa8d498f57944944" title=" " alt="" coords="611,157,754,184"/>
+</map>

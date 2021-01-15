@@ -1,0 +1,4 @@
+<map id="FragSimplifyPass" name="FragSimplifyPass">
+<area shape="rect" id="node1" title="Simplifies IR fragments of a function." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node2" href="$classIPass.html" title="Passes run during the decompilation process and update statements in a UserProc." alt="" coords="45,5,101,32"/>
+</map>
